@@ -5,7 +5,7 @@ const Footer = () => {
   const currentYear = new Date().getFullYear();
 
   const socialLinks = [
-    { icon: <Phone size={20} />, href: 'https://wa.me/201234567890' },
+    { icon: <Phone size={20} />, href: 'https://wa.me/201060044708' },
                 { icon: <Linkedin size={20} />, href: 'https://www.linkedin.com/in/moaz-elhenawy?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' },
                 { icon: <Mail size={20} />, href: 'mailto:moazelhenawy23@gmail.com'
  },
