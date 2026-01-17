@@ -3,6 +3,7 @@ import { useRef } from 'react';
 import { ExternalLink, Github, ArrowUpRight } from 'lucide-react';
 import SectionTitle from './SectionTitle';
 import TiltCard from './TiltCard';
+import project0 from '@/assets/project0.png';
 import project1 from '@/assets/project1.png';
 import project2 from '@/assets/project2.png';
 import project3 from '@/assets/project3.png';
@@ -10,6 +11,14 @@ import project4 from '@/assets/project4.png';
 import project5 from '@/assets/project5.png';
 
 const projects = [
+  {
+    title: 'Furniture showroom',
+    description:
+      'A modern furniture showroom website with interactive 3D models and real-time analytics.',
+    image: project0,
+    liveUrl: 'https://elhenawy.vercel.app/',
+    githubUrl: 'https://github.com/moaz267/------------',
+  },
   {
     title: 'Furniture showroom',
     description:
