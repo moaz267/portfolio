@@ -16,7 +16,7 @@ const projects = [
     description:
       'A modern furniture showroom website with interactive 3D models and real-time analytics.',
     image: project0,
-    liveUrl: 'https://elhenawy.vercel.app/',
+    liveUrl: 'https://furniture-vert-nu.vercel.app/',
     githubUrl: 'https://github.com/moaz267/------------',
   },
   {
